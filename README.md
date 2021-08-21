@@ -12,9 +12,9 @@
 
 ## Img6 Vertical Text (HTML e CSS)
 
-![alt text](![alt text](https://github.com/TiagoMiranda009/CRUD-PHP/blob/master/screen-shots/Img01.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/CRUD-PHP/blob/master/screen-shots/Img02.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/CRUD-PHP/blob/master/screen-shots/Img03.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/CRUD-PHP/blob/master/screen-shots/Img04.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/CRUD-PHP/blob/master/screen-shots/Img05.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/CRUD-PHP/blob/master/screen-shots/Img06.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img01.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img02.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img03.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img04.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img05.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img06.JPG)
