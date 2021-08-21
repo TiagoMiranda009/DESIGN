@@ -12,9 +12,9 @@
 
 ## Img6 Vertical Text (HTML e CSS)
 
-![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img01.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img02.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img03.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img04.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img05.JPG)
-![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/Img06.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/img01.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/img02.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/img03.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/img04.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/img05.JPG)
+![alt text](![alt text](https://github.com/TiagoMiranda009/DESIGN/blob/master/screen-shots/img06.JPG)
